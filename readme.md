@@ -1,4 +1,4 @@
-# FedaPay ShowCase
+# FedaPay Laravel ShowCase
 
 - Get API Key
 
