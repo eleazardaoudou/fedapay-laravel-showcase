@@ -2,6 +2,7 @@
 
 - Get API Key
 
+![FedaPay](keys.png "FedaPay")
 
 - Setup a Laravel(PHP) Project with FedaPay
 
