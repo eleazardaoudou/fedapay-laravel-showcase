@@ -13,7 +13,7 @@ $ composer require fedapay/fedapay-php
 - Add secret key to .env and environment (sandbox or live)
 
 ```
-FEDAPAY_SECRET_KEY=sk_sandbox_pZuQ8AOWj6J-DICNZrpeljqQ	
+FEDAPAY_SECRET_KEY=***	
 FEDAPAY_ENVIRONMENT=sandbox
 ```
 
