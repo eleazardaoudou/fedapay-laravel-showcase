@@ -58,7 +58,7 @@ private function fedapayTransactionData()
         'firstname' => 'Junior',
         'lastname' => 'Gantin',
         'email' => 'nioperas06@gmail.com',
-        'number' => '66526416',
+        'phone_number' => '66526416',
         'country' => 'bj'
     ];
 
