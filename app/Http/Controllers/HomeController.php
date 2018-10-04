@@ -34,8 +34,10 @@ class HomeController extends Controller
             'firstname' => 'Junior',
             'lastname' => 'Gantin',
             'email' => 'nioperas06@gmail.com',
-            'phone_number' => '66526416',
-            'country' => 'bj'
+            'phone_number' => [
+                'number'  => '66526416',
+                'country' => 'bj'
+            ]
         ];
 
         return [
